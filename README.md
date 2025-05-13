@@ -39,6 +39,12 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 </pre>
 
 #### How it looks
+<pre>
+``` javascript
+var myVar = "Hello, world!";
+```
+</pre>
+
 
 ```
 $ git init
