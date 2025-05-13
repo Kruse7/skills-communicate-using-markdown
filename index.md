@@ -7,8 +7,8 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 <pre>
-  '''  
+``` 
 "Hello, World!"
 print("Hello, World!")
-'''
+```
 </pre>
