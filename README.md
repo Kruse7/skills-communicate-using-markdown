@@ -20,6 +20,10 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 -->
 
 ## Step 3: Add a code example
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 
 _Great job adding an image to the file :tada:_
 
