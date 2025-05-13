@@ -26,7 +26,7 @@ _Great job adding an image to the file :tada:_
 Let's add some code blocks. Code blocks can render differently depending on the language.
 
 ### Example 1
-
+print("Hello, Steve!")
 <pre>
 ```
 $ git init
