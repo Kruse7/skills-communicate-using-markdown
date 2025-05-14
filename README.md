@@ -52,6 +52,12 @@ GitHub Actions went ahead and made a branch for you. So you'll need to add to th
    - [ ] Introduce myself to the world
    ```
 
+  ```md
+   - [ ] Task 1 finished
+   - [ ] Outline my portfolio
+   - [ ] Introduce myself to the world
+   ```
+
    Remember, a task list starts with the syntax `- [ ]` and then the task list item. The formatting is specific!
 
 1. Use the **Preview** tab to check your Markdown formatting.
