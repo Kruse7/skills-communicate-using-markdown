@@ -12,3 +12,8 @@
 print("Hello, World!")
 ```
 </pre>
+
+
+- [ ] Finish Task 4
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
