@@ -13,6 +13,12 @@ print("Hello, World!")
 ```
 </pre>
 
+<pre>
+``` 
+"Hello, World!"
+print("Hello, World!")
+```
+</pre>
 
 - [ ] Finish Task 4
 - [ ] Outline my portfolio
